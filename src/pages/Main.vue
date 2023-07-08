@@ -1,7 +1,6 @@
 <template>
   <div class="main">
     <h1>Добро пожаловать</h1>
-    <router-link to="/posts">Страница постов</router-link>
   </div>
 </template>
 
